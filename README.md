@@ -18,6 +18,11 @@ I'm passionate about technology, software development, and continuous learning. 
 - Building my first portfolio of projects
 
 ---
+## 📌 Projects
+
+Right now, I am still working on my first set of beginner projects. These will be uploaded soon as I continue learning.
+
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -40,9 +45,9 @@ I'm passionate about technology, software development, and continuous learning. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizontheprogrammer&show_icons=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizontheprogrammer&layout=compact)
 
 ---
 
