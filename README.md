@@ -3,10 +3,9 @@
 ## 👨‍💻 Who I Am
 
 🎓 BS Information Technology Student at FEU Tech  
-💻 Aspiring Full-Stack Developer  
 📍 Philippines (GMT+8)
 
-I'm passionate about technology, software development, and continuous learning. My goal is to strengthen my programming skills, build meaningful projects, and grow as a developer throughout my college journey.
+My goal is to strengthen my programming skills, build meaningful projects, and grow as a developer throughout my college journey.
 
 ---
 
