@@ -1,85 +1,56 @@
-<h1 align="center">Hi, I'm Misha Recente 👋</h1>
+# Hi, I'm Misha 👋
 
-<p align="center">
-  <strong>BS Information Technology student · Generalist developer · Philippines</strong>
-  <br>
-  I build practical web, desktop, and mobile projects while sharpening my software engineering fundamentals.
-</p>
+I'm a **BS Information Technology student at FEU Tech** from the Philippines.
 
-<p align="center">
-  <a href="mailto:misharecente28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-4F7DE8?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Focus-Building%20and%20learning-1F883D?style=flat-square" alt="Current focus">
-</p>
+I'm still a beginner developer, and I am learning by making school projects and small apps.
 
----
+## About Me
 
-## 🧭 About me
+- 🎓 BS Information Technology student
+- 🌐 Learning web development
+- 🖥️ Interested in desktop applications
+- 📱 Learning Android development with Kotlin
+- 🌱 Improving my programming skills one project at a time
 
-- 🎓 Studying **BS Information Technology at FEU Tech**
-- 🖥️ Building Windows desktop tools with **Python**
-- 🌐 Creating web systems with **HTML, CSS, JavaScript, PHP, and MySQL**
-- 📱 Growing my Android development skills with **Kotlin**
-- 🧠 Strengthening programming foundations through **C++** and software engineering practice
-
-> I enjoy turning school requirements and everyday workflow problems into software people can actually use.
-
-## 🧰 My stack
-
-**Web**
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Apps & programming**
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🚀 Featured projects
+## My Project
 
-| Project | What I built | Main stack |
-|---|---|---|
-| [**Codex Indicator**](https://github.com/mizontheprogrammer/codex-indicator) | A compact Windows companion that shows Codex status, usage, and attention requests. | Python, PySide6 |
-| [**React E-Commerce**](https://github.com/mizontheprogrammer/react-ecommerce) | An e-commerce application focused on storefront interactions and front-end fundamentals. | JavaScript, HTML, CSS |
-| [**Trove**](https://github.com/mizontheprogrammer/Trove) | A Chrome extension for organizing personal notes and reusable snippets. | JavaScript, HTML, CSS |
-| [**Admiral Cars**](https://github.com/mizontheprogrammer/admiral-cars) | A database-backed automotive web project. | PHP, MySQL, HTML, CSS |
+### [Codex Indicator](https://github.com/mizontheprogrammer/codex-indicator)
 
-<p align="right"><a href="https://github.com/mizontheprogrammer?tab=repositories">Explore all repositories →</a></p>
+A small Windows app that shows when Codex is working, ready, or needs a reply.
 
-## 📊 Builder snapshot
+- Built mainly with **Python**
+- Uses **PySide6** for the interface
+- Includes notifications, usage information, and Windows startup
 
-| GitHub activity | Current snapshot |
-|---|---:|
-| Repositories | **14** |
-| Contributions in the last year | **41** |
-| Followers | **3** |
+## GitHub Stats
 
-<sub>Snapshot recorded July 28, 2026. GitHub activity changes over time.</sub>
+- **Repositories:** 14
+- **Contributions in the last year:** 40+
+- **Most used languages:** PHP and JavaScript
+- **Also using:** Python, Kotlin, C++, HTML, CSS, and MySQL
 
-### Most-used language areas
+## Currently Learning
 
-| Focus | Languages | Where I use them |
-|---|---|---|
-| **Primary web work** | PHP · JavaScript | Full-stack coursework, e-commerce, and browser projects |
-| **Desktop development** | Python | Windows utilities and automation |
-| **Mobile learning** | Kotlin | Android application development |
-| **Core foundations** | C++ | Programming logic and software engineering practice |
+- Better PHP and MySQL development
+- Android development with Kotlin
+- Python desktop applications
+- Cleaner and more organized code
 
-## 🌱 What I'm improving next
+## Contact
 
-- Building cleaner, more secure PHP and MySQL applications
-- Developing Android projects with Kotlin
-- Shipping polished Python desktop tools
-- Improving project documentation, testing, and release workflows
+📧 [misharecente28@gmail.com](mailto:misharecente28@gmail.com)
 
 ---
 
-<p align="center">
-  <strong>Always learning. Always building.</strong>
-  <br>
-  <a href="https://github.com/mizontheprogrammer?tab=repositories">See what I'm working on</a>
-</p>
+Thanks for visiting my profile!
