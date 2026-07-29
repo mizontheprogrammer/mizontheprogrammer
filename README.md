@@ -45,6 +45,7 @@ A small Windows app that shows when Codex is working, ready, or needs a reply.
 - Better PHP and MySQL development
 - Android development with Kotlin
 - Python desktop applications
+- Improving Codex Indicator with new ideas
 - Cleaner and more organized code
 
 ## Contact
