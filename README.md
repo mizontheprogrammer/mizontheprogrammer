@@ -6,11 +6,11 @@ I'm still a beginner developer, and I am learning by making school projects and 
 
 ## About Me
 
-- 🎓 BS Information Technology student
-- 🌐 Learning web development
-- 🖥️ Interested in desktop applications
-- 📱 Learning Android development with Kotlin
-- 🌱 Improving my programming skills one project at a time
+-  BS Information Technology student
+-  Learning web development
+-  Interested in desktop applications
+-  Learning Android development with Kotlin
+-  Improving my programming skills one project at a time
 
 ## Tech Stack
 
@@ -50,7 +50,7 @@ A small Windows app that shows when Codex is working, ready, or needs a reply.
 
 ## Contact
 
-📧 [misharecente28@gmail.com](mailto:misharecente28@gmail.com)
+ [misharecente28@gmail.com](mailto:misharecente28@gmail.com)
 
 ---
 
