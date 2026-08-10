@@ -39,27 +39,8 @@
 | [**Codex Indicator**](https://github.com/mizontheprogrammer/codex-indicator) | Small Windows app that shows when Codex is working, ready, or waiting for a reply. Built with **Python** and **PySide6**. |
 | [**Dupeless**](https://github.com/mizontheprogrammer/dupeless) | Chrome extension that removes duplicate questions from copied Canvas quiz text. Built with **JavaScript**, **HTML**, and **CSS**. |
 
-<br>
-
-## About me
-
-- Learning web, desktop, and Android development
-- Interested in privacy-friendly apps that work locally
-- Improving my programming skills through practical projects
-- Still a beginner and always learning something new
-
-## Currently learning
-
-- Better PHP and MySQL development
-- Android development with Kotlin
-- Python desktop applications
-- Electron and browser-extension development
-- Cleaner and more organized code
 
 ## Contact
 
 [Email me](mailto:misharecente28@gmail.com)
 
----
-
-<p align="center">Thanks for visiting my profile!</p>
