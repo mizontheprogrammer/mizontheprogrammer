@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>BS Information Technology student at FEU Tech</strong><br>
-  Beginner developer from the Philippines learning by building school projects, Windows apps, browser tools, and small experiments.
 </p>
 
 <br>
