@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mizon 👋</h1>
+<h1 align="center">Hi, I'm Mizon </h1>
 
 <p align="center">
   <strong>BS Information Technology student at FEU Tech</strong><br>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2 align="center">🛠 Featured projects</h2>
+<h2 align="center">Featured projects</h2>
 
 | Project | What it does |
 | --- | --- |
