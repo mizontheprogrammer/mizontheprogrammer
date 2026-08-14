@@ -40,4 +40,4 @@
 
 ## Contact
 
-[Email me](mailto:misharecente28@gmail.com)
+[Email me](mailto:misharecente28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/misha-andrei-recente-b38a85380/)
