@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Misha Recente </h1>
+<h1 align="center">Hi, I'm Misha Andrei Recente </h1>
 
 <p align="center">
   <strong>BS Information Technology student at FEU Tech</strong><br>
