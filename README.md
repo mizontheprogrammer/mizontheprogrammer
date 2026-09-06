@@ -39,7 +39,6 @@
 | --- | --- |
 | [**Codex Indicator**](https://github.com/mizontheprogrammer/codex-indicator) | Small Windows app that shows when Codex is working, ready, or waiting for a reply. Built with **Python** and **PySide6**. |
 | [**Dupeless**](https://github.com/mizontheprogrammer/dupeless) | Chrome extension that removes duplicate questions from copied Canvas quiz text. Built with **JavaScript**, **HTML**, and **CSS**. |
-| [**Snivra**](https://github.com/mizontheprogrammer/Snivra-Browser-Extension) | Chrome extension that turns screenshots into editable text—paste, drag, or upload. Built with **JavaScript**, **HTML**, and **CSS**. |
 
 
 ## Contact
