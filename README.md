@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Misha Recente </h1>
 
 <p align="center">
-  <strong>A BS Information Technology student at FEU Tech</strong><br>
+  <strong> studying BS Information Technology student at FEU Tech</strong><br>
 </p>
 
 <br>
