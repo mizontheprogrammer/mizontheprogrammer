@@ -23,7 +23,8 @@
 **Data & Cloud**&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Networking & OS**&nbsp;&nbsp;
+**Tools & IDEs**&nbsp;&nbsp;
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-005670?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
