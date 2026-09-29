@@ -4,7 +4,24 @@
   <strong> studying BS Information Technology student at FEU Tech</strong><br>
 </p>
 
+
 <br>
+
+**▸ Building one project at a time.**
+
+<br>
+
+<h2 align="center">Featured projects</h2>
+
+| Project | What it does |
+| --- | --- |
+| [**Codex Indicator**](https://github.com/mizontheprogrammer/codex-indicator) | Small Windows app that shows when Codex is working, ready, or waiting for a reply. Built with **Python** and **PySide6**. |
+| [**Dupeless**](https://github.com/mizontheprogrammer/dupeless) | Chrome extension that removes duplicate questions from copied Canvas quiz text. Built with **JavaScript**, **HTML**, and **CSS**. |
+
+
+## Contact
+
+[Email](mailto:misharecente28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/misha-andrei-recente-b38a85380/)
 
 <div align="center">
 
@@ -27,23 +44,3 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-005670?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
-<br>
-
-**▸ Building one project at a time.**
-
-<br>
-
-<h2 align="center">Featured projects</h2>
-
-| Project | What it does |
-| --- | --- |
-| [**Codex Indicator**](https://github.com/mizontheprogrammer/codex-indicator) | Small Windows app that shows when Codex is working, ready, or waiting for a reply. Built with **Python** and **PySide6**. |
-| [**Dupeless**](https://github.com/mizontheprogrammer/dupeless) | Chrome extension that removes duplicate questions from copied Canvas quiz text. Built with **JavaScript**, **HTML**, and **CSS**. |
-
-
-## Contact
-
-[Email](mailto:misharecente28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/misha-andrei-recente-b38a85380/)
