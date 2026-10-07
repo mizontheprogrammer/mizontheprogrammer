@@ -2,7 +2,6 @@
 
 <p align="center">
   BS Information Technology student at FEU Tech<br>
-  Building one project at a time.
 </p>
 
 <h2>Featured Projects</h2>
